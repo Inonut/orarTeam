@@ -12,5 +12,9 @@
 </head>
 <body>
 aassdaasd
+
+<script src="<%=request.getContextPath()%>/js/abu.ts"></script>
+
+
 </body>
 </html>
